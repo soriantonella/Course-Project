@@ -13,7 +13,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Script | Item | Link to Item
 --- | --- | ---
-GitHub Repo | Repo |  [Repo Link](https://github.com/soriantonella/Course_Project "Click to go to Repo")
+GitHub Repo | Repo |  [Repo Link](https://github.com/soriantonella/Course-Project "Click to go to Repo")
 README | Current File |  [README Link](https://github.com/soriantonella/Course-Project/blob/main/README.md "README.md")
 CodeBook | CodeBook.md |  [CodeBook link](https://github.com/soriantonella/Course-Project/blob/main/CodeBook.md "CodeBook.md")
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/soriantonella/Course-Project/blob/main/run_analysis.R "run_analysis.R")
