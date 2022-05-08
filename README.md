@@ -14,10 +14,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Script | Item | Link to Item
 --- | --- | ---
 GitHub Repo | Repo |  [Repo Link](https://github.com/soriantonella/Course_Project "Click to go to Repo")
-README | Current File |  [README Link](https://github.com/soriantonella/Course_Project/blob/main/README.md "README.md")
-CodeBook | CodeBook.md |  [CodeBook link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt "tidyData.txt")
+README | Current File |  [README Link](https://github.com/soriantonella/Course-Project/blob/main/README.md "README.md")
+CodeBook | CodeBook.md |  [CodeBook link](https://github.com/soriantonella/Course-Project/blob/main/CodeBook.md "CodeBook.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/soriantonella/Course-Project/blob/main/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/soriantonella/Course-Project/blob/main/tidydataset.txt "tidyData.txt")
 
 - CodeBook.md -> Markdown file that describes the variables, the data, and any transformations or work performed to clean up the data.
 - run_analysis.R ->	Script that contains all the actions taken to process the data. The script does the following
